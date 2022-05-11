@@ -1,2 +1,2 @@
 # Problema-de-Uva-10010
-Programa hecho en python totalmente elaborado y comentado.
+Programa totalmente elaborado python y comentado hacerca de su proposito de cada funcion.
